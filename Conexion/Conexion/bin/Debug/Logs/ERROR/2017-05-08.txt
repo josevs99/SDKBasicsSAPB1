@@ -1,0 +1,52 @@
+Log Entry: lunes, 8 de mayo de 2017 02:01:03 p. m. - Conexion(48)
+   No se pudo conectar al DI API - 
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 02:03:31 p. m. - Conexion(48)
+   No se pudo conectar al DI API - 
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 02:06:15 p. m. - Conexion(48)
+   No se pudo conectar al DI API -  - El nombre de recurso especificado no se encuentra en el archivo de imagen.
+
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 02:08:04 p. m. - Conexion(48)
+   No se pudo conectar al DI API - No database server type specified
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 02:57:38 p. m. - Conexion(51)
+   No se pudo conectar al DI API - Failed to connect or logon to SLD, please check connection parameters and configure file
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 03:13:12 p. m. - addBP(106)
+   1250000107 - RFC is missing; when creating a business partner for a domestic company, you must enter the RFC
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 03:13:46 p. m. - addBP(107)
+   1250000107 - RFC is missing; when creating a business partner for a domestic company, you must enter the RFC
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 03:19:49 p. m. - addBP(109)
+   1320000140 - Business partner code 'C08154711' already assigned to a business partner; enter a unique business partner code
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 03:56:52 p. m. - addOrder(165)
+   Invalid BP code  [ORDR.CardCode] , 'C2000'
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 03:58:12 p. m. - addOrder(165)
+   Chosen BP is not a customer  [ORDR.CardCode] , 'V10000'
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 03:58:32 p. m. - addOrder(165)
+   Invalid BP code  [ORDR.CardCode] , 'C2000'
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 04:47:17 p. m. - addInvoiceFromOrder(198)
+   Item number is missing; specify an item number  [INV1.ItemCode][line: 1]
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 04:53:05 p. m. - addInvoiceFromOrder(200)
+   Item number is missing; specify an item number  [INV1.ItemCode][line: 1]
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 04:53:30 p. m. - addInvoiceFromOrder(200)
+   Item number is missing; specify an item number  [INV1.ItemCode][line: 1]
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 04:53:52 p. m. - addInvoiceFromOrder(200)
+   Invalid value  [INV1.ActBaseLn][line: 2]
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 05:06:19 p. m. - addInvoiceFromOrder(200)
+   Invalid value  [INV1.ActBaseLn][line: 2]
+---------------------------------------------------------------------------------------------------------------
+Log Entry: lunes, 8 de mayo de 2017 05:15:48 p. m. - addBP(112)
+   1320000140 - Business partner code 'C08154712' already assigned to a business partner; enter a unique business partner code
+---------------------------------------------------------------------------------------------------------------

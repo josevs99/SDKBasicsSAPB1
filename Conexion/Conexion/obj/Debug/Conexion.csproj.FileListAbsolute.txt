@@ -1,0 +1,9 @@
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\bin\Debug\Conexion.exe.config
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\bin\Debug\Conexion.exe
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\bin\Debug\Conexion.pdb
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\obj\Debug\Interop.SAPbobsCOM.dll
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\obj\Debug\Interop.SAPbouiCOM.dll
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\obj\Debug\Conexion.csproj.ResolveComReference.cache
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\obj\Debug\Conexion.exe
+c:\users\jvaldovi\documents\visual studio 2015\Projects\Conexion\Conexion\obj\Debug\Conexion.pdb
